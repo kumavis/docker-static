@@ -11,6 +11,6 @@
   "author": "kumavis",
   "license": "ISC",
   "dependencies": {
-    "ecstatic": "^0.8.0"
+    "ecstatic": "^2.1.0"
   }
 }
